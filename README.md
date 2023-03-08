@@ -1,2 +1,2 @@
 # Terraform-GCP
-Terraform Configuration Scripts 
+- GCP Cloud Functions
